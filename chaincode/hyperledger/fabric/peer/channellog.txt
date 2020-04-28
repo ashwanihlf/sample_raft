@@ -1,0 +1,14 @@
+[34m2020-04-27 04:48:31.968 UTC [channelCmd] InitCmdFactory -> INFO 001[0m Endorser and orderer connections initialized
+[34m2020-04-27 04:48:31.993 UTC [cli.common] readBlock -> INFO 002[0m Got status: &{NOT_FOUND}
+[34m2020-04-27 04:48:32.011 UTC [channelCmd] InitCmdFactory -> INFO 003[0m Endorser and orderer connections initialized
+[34m2020-04-27 04:48:32.212 UTC [cli.common] readBlock -> INFO 004[0m Got status: &{SERVICE_UNAVAILABLE}
+[34m2020-04-27 04:48:32.214 UTC [channelCmd] InitCmdFactory -> INFO 005[0m Endorser and orderer connections initialized
+[34m2020-04-27 04:48:32.415 UTC [cli.common] readBlock -> INFO 006[0m Got status: &{SERVICE_UNAVAILABLE}
+[34m2020-04-27 04:48:32.417 UTC [channelCmd] InitCmdFactory -> INFO 007[0m Endorser and orderer connections initialized
+[34m2020-04-27 04:48:32.618 UTC [cli.common] readBlock -> INFO 008[0m Got status: &{SERVICE_UNAVAILABLE}
+[34m2020-04-27 04:48:32.620 UTC [channelCmd] InitCmdFactory -> INFO 009[0m Endorser and orderer connections initialized
+[34m2020-04-27 04:48:32.821 UTC [cli.common] readBlock -> INFO 00a[0m Got status: &{SERVICE_UNAVAILABLE}
+[34m2020-04-27 04:48:32.823 UTC [channelCmd] InitCmdFactory -> INFO 00b[0m Endorser and orderer connections initialized
+[34m2020-04-27 04:48:33.024 UTC [cli.common] readBlock -> INFO 00c[0m Got status: &{SERVICE_UNAVAILABLE}
+[34m2020-04-27 04:48:33.026 UTC [channelCmd] InitCmdFactory -> INFO 00d[0m Endorser and orderer connections initialized
+[34m2020-04-27 04:48:33.228 UTC [cli.common] readBlock -> INFO 00e[0m Received block: 0
